@@ -1,0 +1,114 @@
+  <div class="login-box">
+     <header>Register </header>
+   
+    
+    <div class="social-login">
+      <a href="#">
+        <i class="fa fa-facebook fa-lg"></i>
+        Login in with facebook
+      </a>
+      <a href="#">
+        <i class="fa fa-google-plus fa-lg"></i>
+        log in with Google
+      </a>
+    </div>
+    <form class="email-login">
+      <div class="u-form-group">
+        <input type="email" placeholder=" Enter your Email"/>
+      </div>
+      
+      <div class="u-form-group">
+        <button>Continue</button>
+      </div>
+      <div class="u-form-group">
+      <p class="sign-in">Already a member? <a href="#">Sign in</a></p>
+      </div>
+    </form>
+    <form class="email-signup">
+      <div class="u-form-group">
+        <input type="email" placeholder="Email"/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" placeholder="Password"/>
+      </div>
+      <div class="u-form-group">
+        <input type="password" placeholder="Confirm Password"/>
+      </div>
+      <div class="u-form-group">
+        <button>Sign Up</button>
+      </div>
+
+  <div id="container">
+         <header>Register </header>
+         <form method="post">
+            <fieldset>
+               <br/>
+               <input type="text" name="username" id="username" placeholder="Username" required autofocus>
+               <br/><br/>
+              
+               <br/><br/>
+               <input type="password" name="password" id="password" placeholder="Password" required>
+               <br/><br/>
+               <input type="password" name="confirm-password" id="confirm-password" placeholder="Confirm Password" required>
+               <br/> <br/> <br/>
+               <label for="submit"></label>
+               <input type="submit" name="submit" id="submit" value="Continue">
+            </fieldset>
+             <div class="u-form-group">
+<p class="sign-in">Already a member? <a href="#">Sign in</a></p>
+        
+      </div>
+
+
+ <div id="container">
+        <header>Register </header>
+         <form method="post">
+            <fieldset>
+               <br/>
+              
+               <input type="text" name="username" id="username" placeholder="Username" required autofocus>
+               <br/><br/>
+              
+               <br/><br/>
+              
+               <input type="Business name" name="confirm-password" id="Business Name" placeholder="Business Name" required>
+               <br/> <br/><br/>
+               <input type="Location" name="password" id="location" placeholder="Location" required>
+               <br/><br/><br/>
+              
+              
+                <input type="Password" name="password" id="password" placeholder="Password" required>
+               <br/><br/><br/>
+              <input type="Confirm-Password" name="password" id="password" placeholder="Confirm Password" required>
+              <br/> <br/>
+               <label for="submit"></label>
+               <input type="submit" name="submit" id="submit" value="Continue">
+            </fieldset>
+             <div class="u-form-group">
+        <a href="#" class="sign-in">Already a member? Sign in</a>
+      </div>
+     <div id="container">
+         <header>Register </header>
+         <form method="post">
+            <fieldset>
+               <br/>
+           
+              
+              
+                <input type="Password" name="password" id="password" placeholder="Password" required>
+               <br/><br/><br/>
+              <input type="Confirm-Password" name="password" id="password" placeholder="Confirm" required>
+              <br/> <br/>
+               <label for="submit"></label>
+               <input type="submit" name="submit" id="submit" value="Continue">
+            </fieldset>
+             <div class="u-form-group">
+        <a href="#" class="sign-in">Already a member? Sign in</a>
+      </div>
+
+    </form>
+  </div>
+
+
+
+
